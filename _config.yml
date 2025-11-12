@@ -1,0 +1,24 @@
+title: "AgentOps @ Sinensia"
+description: "Recursos oficiales del curso AgentOps y contenidos adicionales de Sinensia IT Solutions"
+url: "https://sinensia.github.io"
+baseurl: ""
+remote_theme: pages-themes/cayman@v0.2.0
+lang: es
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+github:
+  is_project_page: false
+  is_user_page: true
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+feed:
+  path: atom.xml
+seo:
+  name: "Sinensia IT Solutions"
+  type: "Organization"

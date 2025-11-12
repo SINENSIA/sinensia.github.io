@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AgentOps: Orquestación Cognitiva de Agentes de IA en Ciclos de Desarrollo de Software"
+permalink: /curso-agentops/
+description: Programa oficial del curso AgentOps de Sinensia IT Solutions
+---
 
 # 🤖 AgentOps: Orquestación Cognitiva de Agentes de IA en Ciclos de Desarrollo de Software
 
@@ -95,6 +101,6 @@ El curso se estructura en dominios prácticos sobre un proyecto real:
 *   **Opcional:** Si el calendario lo permite, se emitirá una credencial formativa en red **Solana** (SPL Token + Metaplex Metadata).
 
 <audio controls preload="none">
-  <source src="podcasts/AgentOps_El_Salto_de_DevOps_a_la_Orquestación_Cognitiva.m4a" type="audio/mp4">
+  <source src="{{ '/docs/podcasts/AgentOps_El_Salto_de_DevOps_a_la_Orquestación_Cognitiva.m4a' | relative_url }}" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
