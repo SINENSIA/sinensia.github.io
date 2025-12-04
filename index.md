@@ -12,6 +12,8 @@ El hub oficial de contenidos de **Sinensia IT Solutions** para el curso **AgentO
 
 - [Programa completo del curso]({{ '/curso-agentops/' | relative_url }})
 - [Podcast "El salto de DevOps a la Orquestación Cognitiva"]({{ '/docs/podcasts/AgentOps_El_Salto_de_DevOps_a_la_Orquestación_Cognitiva.m4a' | relative_url }})
+- [Programa completo del curso MCP]({{ '/curso-mcp/' | relative_url }})
+- [Podcast "MCP: el USB para orquestar la IA"]({{ '/docs/podcasts/MCP_el_USB_para_orquestar_la_IA.m4a' | relative_url }})
 
 ## ¿Por qué AgentOps?
 
