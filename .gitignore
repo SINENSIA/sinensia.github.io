@@ -212,3 +212,6 @@ _site/
 .jekyll-cache/
 .bundle/
 vendor/bundle/
+
+# Private course sources (uncrypted originals — only the encrypted output is published)
+_private/
